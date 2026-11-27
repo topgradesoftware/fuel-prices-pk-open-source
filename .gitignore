@@ -1,0 +1,48 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.cursor/
+
+# Env / secrets
+.env
+.env.backup
+.env.production
+.env.local
+**/.env
+**/firebase-credentials.json
+**/google-services.json
+**/GoogleService-Info.plist
+mobile/lib/firebase_options.dart
+**/service-account*.json
+**/*-credentials.json
+*.pem
+*.p12
+*.jks
+**/key.properties
+
+# Dependencies & build artifacts
+node_modules/
+vendor/
+**/public/build/
+**/public/hot
+*.log
+
+# Flutter
+mobile/.dart_tool/
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+mobile/.packages
+mobile/build/
+mobile/.pub-cache/
+mobile/.pub/
+mobile/**/.gradle/
+mobile/**/build/
+
+# Large binary downloads (publish via script)
+backend/public/downloads/*.apk
+
+# Archives / local dumps
+*.zip
+*.sql

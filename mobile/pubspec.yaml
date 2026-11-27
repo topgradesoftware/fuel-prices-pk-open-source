@@ -1,0 +1,61 @@
+name: oil_price_calculator
+description: Petrol Price Auto Calculator — multi-company, multi-city fuel price tracking and cost calculators.
+publish_to: "none"
+version: 0.3.0+10
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_riverpod: ^3.3.2
+  go_router: ^17.3.0
+  dio: ^5.4.3
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  uuid: ^4.4.0
+
+  firebase_core: ^4.12.1
+  firebase_messaging: ^16.4.3
+  firebase_auth: ^6.5.6
+  firebase_crashlytics: ^5.2.6
+  firebase_analytics: ^12.4.5
+  google_sign_in: ^7.2.0
+  flutter_local_notifications: ^22.1.0
+
+  fl_chart: ^1.2.0
+  flutter_svg: ^2.0.10+1
+  cached_network_image: ^3.3.1
+  intl: ^0.20.3
+  cupertino_icons: ^1.0.8
+  url_launcher: ^6.3.0
+  geolocator: ^14.0.3
+  share_plus: ^13.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.1
+  flutter_native_splash: ^2.4.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: assets/icon/app_icon.png
+  adaptive_icon_background: "#0b0f14"
+  adaptive_icon_foreground: assets/icon/app_icon_foreground.png
+
+flutter_native_splash:
+  color: "#0b0f14"
+  image: assets/icon/app_icon_foreground.png
+  android_12:
+    color: "#0b0f14"
+    image: assets/icon/app_icon_foreground.png

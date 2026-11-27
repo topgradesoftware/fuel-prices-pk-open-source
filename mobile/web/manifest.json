@@ -1,0 +1,35 @@
+{
+    "name": "Fuel Prices PK",
+    "short_name": "FuelPK",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#10151C",
+    "theme_color": "#F2A63F",
+    "description": "Live fuel prices for Pakistan — Petrol, Diesel, LPG and more.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}

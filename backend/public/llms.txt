@@ -1,0 +1,32 @@
+# Fuel Prices PK
+
+> Today's petrol, diesel (HSD) and LPG prices in Pakistan — Karachi, Lahore, Islamabad and more. Compare PSO, Shell and APL, track OGRA updates, find nearby pumps, and estimate trip cost.
+
+## Core pages
+- https://oilprice.topgradesoftware.com/
+- https://oilprice.topgradesoftware.com/fuel-calculator
+- https://oilprice.topgradesoftware.com/price-history
+- https://oilprice.topgradesoftware.com/faq
+- https://oilprice.topgradesoftware.com/prices
+- https://oilprice.topgradesoftware.com/petrol-price-today
+- https://oilprice.topgradesoftware.com/diesel-price-today
+- https://oilprice.topgradesoftware.com/lpg-price-today
+
+## Priority city landings
+- https://oilprice.topgradesoftware.com/petrol-price/karachi
+- https://oilprice.topgradesoftware.com/petrol-price/lahore
+- https://oilprice.topgradesoftware.com/petrol-price/islamabad
+- https://oilprice.topgradesoftware.com/petrol-price/rawalpindi
+- https://oilprice.topgradesoftware.com/petrol-price/faisalabad
+- https://oilprice.topgradesoftware.com/petrol-price/multan
+- https://oilprice.topgradesoftware.com/petrol-price/peshawar
+- https://oilprice.topgradesoftware.com/petrol-price/quetta
+- https://oilprice.topgradesoftware.com/petrol-price/hyderabad
+- https://oilprice.topgradesoftware.com/petrol-price/gujranwala
+
+## Product
+Fuel Prices PK shows live Pakistan petrol, diesel (HSD) and LPG prices by city, OMC compare, history charts, nearby pumps, and trip cost calculators. Full URL list: https://oilprice.topgradesoftware.com/sitemap.xml
+
+## Contact
+- Website: https://oilprice.topgradesoftware.com/
+- Company: https://topgradesoftware.com

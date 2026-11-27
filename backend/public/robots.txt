@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /sanctum/
+Disallow: /up
+Sitemap: https://oilprice.topgradesoftware.com/sitemap.xml
